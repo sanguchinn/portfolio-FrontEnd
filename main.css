@@ -3,7 +3,7 @@
 .home-body{
     margin: 0;
     padding: 0;
-    background-image:url(/media/bg.jpg);
+    background-image:url(./media/bg.jpg);
     background-size: 100%;
     font-family: 'Unbounded', cursive;;
 /*  background-position: center; */
