@@ -1,0 +1,8 @@
+{
+    "nombre": "luciana",
+    "descripcion": "mi portfolio",
+    "herramientas": {
+        "front": ["html", "css", "js"],
+        "back": ["typescript", "angular"]
+    }
+}
